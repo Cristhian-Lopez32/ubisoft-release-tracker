@@ -13,9 +13,6 @@ Aplicación web moderna para rastrear próximos lanzamientos de juegos de Ubisof
 - ♿ **Totalmente accesible** con soporte para lectores de pantalla
 - 🚀 **API RAWG** para datos actualizados
 
-## 🌐 Demo en Vivo
-
-👉 **[Ver Demo](https://tu-usuario.github.io/ubisoft-release-tracker/)**
 
 ## 🛠️ Tecnologías Utilizadas
 
