@@ -10,7 +10,6 @@ Aplicación web moderna para rastrear próximos lanzamientos de juegos de Ubisof
 - 🔍 **Búsqueda y filtros** por género, plataforma y fecha
 - 📱 **Diseño responsive** para móviles y desktop  
 - 🎨 **Interfaz moderna** con animaciones suaves
-- ♿ **Totalmente accesible** con soporte para lectores de pantalla
 - 🚀 **API RAWG** para datos actualizados
 
 
